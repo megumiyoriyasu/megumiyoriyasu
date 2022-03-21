@@ -1,7 +1,7 @@
 
 # Olá! Eu sou Thais Megumi Yoriyasu <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-<img align="right" alt="megumi-gif" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/833519060577943613/954483939530137620/wink.gif">
+<img align="right" alt="megumi-gif" height="150" style="border-radius:100%;" src="https://cdn.discordapp.com/attachments/833519060577943613/954483939530137620/wink.gif">
 
 💾 Estudante de desenvolvimento web | Trybe<br>
 🩺 Ex-estudante de medicina veterinária | UNESP<br>
@@ -10,7 +10,7 @@
 💡 Entusiasta da vida tecnológica!<br>
 🍙 Vegana<br>
 
-🐶🐶🐶🐭🐰
+🐺🐶🐭🐶🐦🐰🐦
 
 <div align="center">
   <a href="https://github.com/megumiyoriyasu">
@@ -26,9 +26,7 @@
 <hr>
 <div align="center">
   <a href="https://www.linkedin.com/in/megumiyoriyasu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/qr/I3NXYDJQE3BBE1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/qr/I3NXYDJQE3BBE1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a><br>
+  <br><p align="right">📫 megumi.yoriyasu@outlook.com</p>
 </div>
 
-<img align='left' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
-
-  <br><br><br><br><p align="right">📫 megumi.yoriyasu@outlook.com</p>
