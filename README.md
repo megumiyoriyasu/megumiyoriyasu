@@ -7,10 +7,10 @@
 🩺 Ex-estudante de medicina veterinária | UNESP<br>
 🌱 Uma amante da natureza...<br>
 📷 Apaixonada por fotografia<br>
-💡 Entusiasta da vida tecnológica!<br>
+💡 Entusiasta da vida tecnológica sustentável!<br>
 🍙 Vegana<br>
 
-🐺🐶🐭🐶🐦🐰🐦
+🐺🐶🐶🐭🐶🐦🐰🐦
 
 <div align="center">
   <a href="https://github.com/megumiyoriyasu">
