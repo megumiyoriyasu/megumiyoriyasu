@@ -1,16 +1,12 @@
 
 # Olá! Eu sou Thais Megumi Yoriyasu <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-<img align="right" alt="megumi-gif" height="150" style="border-radius:100%;" src="https://cdn.discordapp.com/attachments/833519060577943613/954483939530137620/wink.gif">
-
 💾 Estudante de desenvolvimento web | Trybe<br>
 🩺 Ex-estudante de medicina veterinária | UNESP<br>
 🌱 Uma amante da natureza...<br>
 📷 Apaixonada por fotografia<br>
 💡 Entusiasta da vida tecnológica sustentável!<br>
 🍙 Vegana<br>
-
-🐺🐶🐶🐭🐶🐰
 
 <div align="center">
   <a href="https://github.com/megumiyoriyasu">
