@@ -1,7 +1,8 @@
 
-# Olá! Eu sou Thais Megumi Yoriyasu <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+# Olá! Eu sou Thais Megumi Yoriyasu (Ela/Dela) <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 💾 Estudante de desenvolvimento web | Trybe<br>
+⏳ Atualmente estudando Docker e MySQL<br>
 🩺 Ex-estudante de medicina veterinária | UNESP<br>
 🌱 Uma amante da natureza...<br>
 📷 Apaixonada por fotografia<br>
