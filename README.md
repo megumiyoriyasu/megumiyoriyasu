@@ -3,7 +3,7 @@
 <i>(Ela/Dela)</i>
 
 💾 Estudante de desenvolvimento web | Trybe<br>
-⏳ Atualmente estudando Docker e MySQL<br>
+⏳ Atualmente estudando MySQL<br>
 🩺 Ex-estudante de medicina veterinária | UNESP<br>
 🌱 Uma amante da natureza...<br>
 📷 Apaixonada por fotografia<br>
