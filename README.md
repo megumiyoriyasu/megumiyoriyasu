@@ -2,7 +2,7 @@
 # Olá! Eu sou Thais Megumi Yoriyasu <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 <i>(Ela/Dela)</i>
 
-💾 Estudante de desenvolvimento web | Trybe<br>
+💾 Estudante de desenvolvimento web<br>
 ⏳ Atualmente estudando Node.js<br>
 🩺 Ex-estudante de medicina veterinária | UNESP<br>
 🌱 Uma amante da natureza...<br>
